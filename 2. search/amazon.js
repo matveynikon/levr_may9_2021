@@ -9,7 +9,8 @@ var k = 1;
 async function start() {
   const url = 'https://matveynikon.wixsite.com/dailyhero/post/4-ocean';
   const browser = await puppeteer.launch({
-      args: ['--no-sandbox']
+      args: ['--no-sandbox'],
+      headless: false
   });
   for(var g = 3000; g > 0; g--){
     const page = await browser.newPage();
