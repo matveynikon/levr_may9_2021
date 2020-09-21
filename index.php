@@ -10,8 +10,6 @@
   error_reporting(E_ALL);
   ini_set('display_errors', 1);  
   ignore_user_abort(true);   
-  exec("npm install");
-  exec("npm audit fix");
   sleep(2);
   exec("node a.js",$o,$v);
   print_r($o);
