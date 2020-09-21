@@ -14,7 +14,7 @@ async function start() {
     '--disable-setuid-sandbox'
   ]
   });
-  for(var g = 3000; g > 0; g--){
+  for(var g = 2; g > 0; g--){
     const page = await browser.newPage();
     page.setDefaultNavigationTimeout(0);
     await page.goto(url);
