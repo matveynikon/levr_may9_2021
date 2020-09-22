@@ -3,8 +3,7 @@ console.log('dude')
 async function start () {
   const url = 'https://matveynikon.wixsite.com/dailyhero/post/4-ocean'
   const browser = await puppeteer.launch({
-    args: ['--no-sandbox'],
-    args: ['--disable-setuid-sandbox']
+    args: ['--no-sandbox']
   })
   const page = await browser.newPage()
   page.setDefaultNavigationTimeout(0)
