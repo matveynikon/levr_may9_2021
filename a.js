@@ -9,7 +9,7 @@ async function start() {
   console.log('hellloooo');
   await page.goto('https://www.instagram.com/funnymemes/followers/');    
   await page.waitFor(3000);
-  await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
+  /*await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   await page.waitFor(3000);
   await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
   await page.keyboard.type('levr.media9@gmail.com')
@@ -20,7 +20,7 @@ async function start() {
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(3) > button > div
   await page.click('#loginForm > div > div:nth-child(3) > button > div')
-  await page.waitFor(5000)
+  await page.waitFor(5000)*/
   var varlist = []
   let g = 0;
   for (var c = 0; c < 50; c++){
