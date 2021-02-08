@@ -3,8 +3,7 @@ var n = 0;
 var k = 162;
 async function start() {
   const browser = await puppeteer.launch({
-    args: ['--no-sandbox'],
-    headless: false
+    args: ['--no-sandbox']
   });  
   const page = await browser.newPage();
   console.log('hellloooo');
