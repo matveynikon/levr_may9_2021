@@ -21,7 +21,7 @@ async function start() {
  
     path: "./screenshot.png"                 // Save the screenshot in current directory
   })
-  //await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
+  await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   await page.waitFor(3000);
   await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
   await page.keyboard.type('levr.media9@gmail.com')
@@ -48,7 +48,7 @@ async function start() {
   for (var c = 0; c < 50; c++){
     urlist = ['https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/memeselysium/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/swagaliciousjokes/followers/', 'https://www.instagram.com/meme.burn/followers/', 'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/funnyvideos/followers/']
     const url = Math.floor(Math.random() * 7 + 0)
-    let time = Math.floor(Math.random() * 100000 + 500000)
+    let time = Math.floor(Math.random() * 10000 + 50000)
     await page.waitFor(time)
     for (var z = 0; z < 8; z++){
       await page.goto(urlist[url])
