@@ -42,7 +42,12 @@ async function start() {
       await page.goto(urlist[url])
       console.log(url)
       await page.waitFor(2000)
-      await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
+      try{
+        await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
+      }
+      catch{
+        console.log('already there')
+      }
       //#f24050daec6c098 > div > div > span > a
       /*if(g == 0){
         await page.waitFor(5000);
