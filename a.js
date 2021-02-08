@@ -10,21 +10,26 @@ async function start() {
   await page.goto('https://www.instagram.com/funnymemes/followers/');    
   await page.waitFor(3000);
   try{
-    await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
+    try{
+      await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
+    }
+    catch{
+      console.log('no cookies')
+    }
+    await page.waitFor(3000);
+    await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
+    await page.keyboard.type('levr.media9@gmail.com')
+    await page.waitFor(2000)
+    //#loginForm > div > div:nth-child(2) > div > label > input
+    await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
+    await page.keyboard.type('GOGGINS_2')
+    await page.waitFor(2000)
+    //#loginForm > div > div:nth-child(3) > button > div
+    await page.click('#loginForm > div > div:nth-child(3) > button > div')
   }
   catch{
-    console.log('no cookies')
+    console.log('no login form')
   }
-  await page.waitFor(3000);
-  await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
-  await page.keyboard.type('levr.media9@gmail.com')
-  await page.waitFor(2000)
-  //#loginForm > div > div:nth-child(2) > div > label > input
-  await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-  await page.keyboard.type('GOGGINS_2')
-  await page.waitFor(2000)
-  //#loginForm > div > div:nth-child(3) > button > div
-  await page.click('#loginForm > div > div:nth-child(3) > button > div')
   await page.waitFor(5000)
   var varlist = []
   let g = 0;
