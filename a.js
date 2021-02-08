@@ -12,15 +12,11 @@ async function start() {
       '--ignore-certifcate-errors-spki-list',
       '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"'
       ]
-  });
+  });  
   const page = await browser.newPage();
   console.log('hellloooo');
-  await page.goto('https://www.instagram.com/');    
-  await page.waitFor(8000);
-  await page.screenshot({                      // Screenshot the website using defined options
- 
-    path: "./screenshot.png",                   // Save the screenshot in current directory
-  })
+  await page.goto('https://www.instagram.com/funnymemes/followers/');    
+  await page.waitFor(3000);
   await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   await page.waitFor(3000);
   await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
@@ -86,7 +82,7 @@ async function start() {
         console.log(name)
       }
       if(varlist.indexOf(name) > -1){
-        console.log(followlist)
+        console.log(varlist)
       }
       else{
         try{
