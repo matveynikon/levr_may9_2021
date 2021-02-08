@@ -9,28 +9,28 @@ async function start() {
   console.log('hellloooo');
   await page.goto('https://www.instagram.com/funnymemes/followers/');    
   await page.waitFor(3000);
-  try{
-    try{
-      await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
-    }
-    catch{
-      console.log('no cookies')
-    }
-    await page.waitFor(3000);
-    await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
-    await page.keyboard.type('levr.media9@gmail.com')
-    await page.waitFor(2000)
-    //#loginForm > div > div:nth-child(2) > div > label > input
-    await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-    await page.keyboard.type('GOGGINS_2')
-    await page.waitFor(2000)
-    //#loginForm > div > div:nth-child(3) > button > div
-    await page.click('#loginForm > div > div:nth-child(3) > button > div')
-  }
-  catch{
-    console.log('no login form')
-  }
+  await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
+  await page.waitFor(3000);
+  await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
+  await page.keyboard.type('levr.media9@gmail.com')
+  await page.waitFor(2000)
+  //#loginForm > div > div:nth-child(2) > div > label > input
+  await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
+  await page.keyboard.type('GOGGINS_2')
+  await page.waitFor(2000)
+  //#loginForm > div > div:nth-child(3) > button > div
+  await page.click('#loginForm > div > div:nth-child(3) > button > div')
   await page.waitFor(5000)
+  /*var v1;
+  var v2;
+  var v3;
+  var v4;
+  var v5;
+  var v6;
+  var v7;
+  var v8;
+  var v9;
+  var v10;*/
   var varlist = []
   let g = 0;
   for (var c = 0; c < 50; c++){
@@ -42,12 +42,7 @@ async function start() {
       await page.goto(urlist[url])
       console.log(url)
       await page.waitFor(2000)
-      try{
-        await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
-      }
-      catch{
-        console.log('already there')
-      }
+      await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
       //#f24050daec6c098 > div > div > span > a
       /*if(g == 0){
         await page.waitFor(5000);
