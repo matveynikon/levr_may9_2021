@@ -17,6 +17,10 @@ async function start() {
   console.log('hellloooo');
   await page.goto('https://www.instagram.com/funnymemes/followers/');    
   await page.waitFor(3000);
+  await page.screenshot({                      // Screenshot the website using defined options
+ 
+    path: "./screenshot.png"                 // Save the screenshot in current directory
+  })
   await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   await page.waitFor(3000);
   await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
