@@ -53,7 +53,7 @@ async function start() {
   for (var c = 0; c < 50; c++){
     urlist = ['https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/memeselysium/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/swagaliciousjokes/followers/', 'https://www.instagram.com/meme.burn/followers/', 'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/funnyvideos/followers/']
     const url = Math.floor(Math.random() * 7 + 0)
-    let time = Math.floor(Math.random() * 10000 + 50000)
+    let time = Math.floor(Math.random() * 30000 + 150000)
     await page.waitFor(time)
     for (var z = 0; z < 8; z++){
       await page.goto(urlist[url])
@@ -90,8 +90,10 @@ async function start() {
         var name = await page.evaluate(element => element.textContent, element);
         console.log(name)
       }
-      if(varlist.indexOf(name) > -1){
-        console.log(varlist)
+      var i = (varlist.indexOf("turtles") > -1);
+      console.log(i)
+      if(i === false){
+          console.log('already there')
       }
       else{
         try{
