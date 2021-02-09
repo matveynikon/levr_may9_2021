@@ -50,16 +50,28 @@ async function start() {
   var v10;*/
   var varlist = []
   let g = 0;
+  let url = 0;
   for (var c = 0; c < 50; c++){
-    urlist = ['https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/memeselysium/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/swagaliciousjokes/followers/', 'https://www.instagram.com/meme.burn/followers/', 'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/funnyvideos/followers/']
-    const url = Math.floor(Math.random() * 7 + 0)
-    let time = Math.floor(Math.random() * 30000 + 150000)
+    urlist = ['https://www.instagram.com/memesofixial/followers/', 'https://www.instagram.com/captainhumour/followers/', 'https://www.instagram.com/amateurbantermemes/followers/', 'https://www.instagram.com/yizzerk/followers/', 'https://www.instagram.com/thememelogistics/followers/', 'https://www.instagram.com/legendarymemeguyyy/followers/', 'https://www.instagram.com/meemchamber/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/mcmemes22/followers/', 'https://www.instagram.com/imjustlivinmemes/followers/', 'https://www.instagram.com/lordmemerhere/followers/', 'https://www.instagram.com/memesac.2/followers/', 'https://www.instagram.com/meme_monkey_420/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/ohmyrickk/followers/', 'https://www.instagram.com/pubity_comedy/followers/', 'https://www.instagram.com/godssmemess/followers/', 'https://www.instagram.com/vabeif/followers/']
+    let time = Math.floor(Math.random() * 100000 + 4000000)
     await page.waitFor(time)
-    for (var z = 0; z < 8; z++){
-      await page.goto(urlist[url])
+    if(url == 18){
+      url = 0;
+    }
+    else{
       console.log(url)
+    }
+    for (var z = 0; z < 8; z++){
+      n = 0;
+      await page.goto(urlist[url])
+      console.log(urlist[url])
       await page.waitFor(2000)
-      await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
+      try{
+        await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
+      }
+      catch{
+        console.log('follow list already displayed')
+      }
       //#f24050daec6c098 > div > div > span > a
       /*if(g == 0){
         await page.waitFor(5000);
@@ -90,9 +102,9 @@ async function start() {
         var name = await page.evaluate(element => element.textContent, element);
         console.log(name)
       }
-      var i = (varlist.indexOf("turtles") > -1);
+      var i = (varlist.indexOf("turtles"));
       console.log(i)
-      if(i === false){
+      if(i > -1){
           console.log('already there')
       }
       else{
@@ -104,17 +116,24 @@ async function start() {
           await page.waitFor(3000)
           await page.click('body > div._2dDPU.RnrQH.CkGkG > div.EfHg9 > div > div > a')
           await page.waitFor(4000)
-          await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
+          try{
+            await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
+          }
+          catch{
+            console.log('only one post')
+          }
         }
         catch{
+          n = 1;
           console.log('private account')
         }
       }
       await page.waitFor(2000)  
       //var array = [text, text, text, text, text]
-      varlist.push(name)
+      varlist.push(name + '   ' + n)
       console.log(varlist)
     }
+    url += 1;
   }
 
 }
