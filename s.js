@@ -49,11 +49,13 @@ async function start() {
   let url = 0;
   for (var c = 0; c < 50; c++){
     urlist = ['https://www.instagram.com/hb_dawgs/followers/', 'https://www.instagram.com/onlysarcasm.ig/followers/', 'https://www.instagram.com/amateurbantermemes/followers/', 'https://www.instagram.com/yizzerk/followers/', 'https://www.instagram.com/thememelogistics/followers/', 'https://www.instagram.com/legendarymemeguyyy/followers/', 'https://www.instagram.com/meemchamber/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/mcmemes22/followers/', 'https://www.instagram.com/imjustlivinmemes/followers/', 'https://www.instagram.com/lordmemerhere/followers/', 'https://www.instagram.com/memesac.2/followers/', 'https://www.instagram.com/meme_monkey_420/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/ohmyrickk/followers/', 'https://www.instagram.com/pubity_comedy/followers/', 'https://www.instagram.com/godssmemess/followers/', 'https://www.instagram.com/vabeif/followers/',
-    'https://www.instagram.com/issamemelover/followers/', 'https://www.instagram.com/staywithmecrox/followers/', 'https://www.instagram.com/memes_4yaall/followers/', 'https://www.instagram.com/drunken.fruit.fly/followers/', 'https://www.instagram.com/memehxstler/followers/', 'https://www.instagram.com/dogeoncrack/followers/', 'https://www.instagram.com/instant.memz/followers/', 'https://www.instagram.com/ultrameems/followers/', 'https://www.instagram.com/i.shidded.my.pants/followers/', 'https://www.instagram.com/fuckkcomedy/followers/', 'https://www.instagram.com/toiletmemes33/followers/', 'https://www.instagram.com/spongedome/followers/', 'https://www.instagram.com/siiiiiiick/followers/', 'https://www.instagram.com/saucynade/followers/', 'https://www.instagram.com/memestochill/followers/']
+    'https://www.instagram.com/issamemelover/followers/', 'https://www.instagram.com/staywithmecrox/followers/', 'https://www.instagram.com/memes_4yaall/followers/', 'https://www.instagram.com/drunken.fruit.fly/followers/', 'https://www.instagram.com/memehxstler/followers/', 'https://www.instagram.com/dogeoncrack/followers/', 'https://www.instagram.com/instant.memz/followers/', 'https://www.instagram.com/ultrameems/followers/', 'https://www.instagram.com/i.shidded.my.pants/followers/', 'https://www.instagram.com/fuckkcomedy/followers/', 'https://www.instagram.com/toiletmemes33/followers/', 'https://www.instagram.com/spongedome/followers/', 'https://www.instagram.com/siiiiiiick/followers/', 'https://www.instagram.com/saucynade/followers/', 'https://www.instagram.com/memestochill/followers/',
+    'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/ofhensive/followers/', 'https://www.instagram.com/kurxie/followers/', 'https://www.instagram.com/awkwardiety/followers/', 'https://www.instagram.com/basictor/followers/', 'https://www.instagram.com/memestochill/followers/', 'https://www.instagram.com/heavy.pdf/followers/']
     //urlist = ['']
-    let time = Math.floor(Math.random() * 30000 + 40000)
+    //console.log(urlist.length)
+    let time = Math.floor(Math.random() * 140000 + 210000)
     await page.waitFor(time)
-    if(url == 18){
+    if(url == 39){
       url = 0;
     }
     else{
