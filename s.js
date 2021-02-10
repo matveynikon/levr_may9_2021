@@ -17,10 +17,6 @@ async function start() {
   console.log('hellloooo');
   await page.goto('https://www.instagram.com/funnymemes/followers/');    
   await page.waitFor(3000);
-  await page.screenshot({                      // Screenshot the website using defined options
- 
-    path: "./screenshot.png"                 // Save the screenshot in current directory
-  })
   try{
     await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   }
@@ -52,8 +48,10 @@ async function start() {
   let g = 0;
   let url = 0;
   for (var c = 0; c < 50; c++){
-    urlist = ['https://www.instagram.com/memesofixial/followers/', 'https://www.instagram.com/captainhumour/followers/', 'https://www.instagram.com/amateurbantermemes/followers/', 'https://www.instagram.com/yizzerk/followers/', 'https://www.instagram.com/thememelogistics/followers/', 'https://www.instagram.com/legendarymemeguyyy/followers/', 'https://www.instagram.com/meemchamber/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/mcmemes22/followers/', 'https://www.instagram.com/imjustlivinmemes/followers/', 'https://www.instagram.com/lordmemerhere/followers/', 'https://www.instagram.com/memesac.2/followers/', 'https://www.instagram.com/meme_monkey_420/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/ohmyrickk/followers/', 'https://www.instagram.com/pubity_comedy/followers/', 'https://www.instagram.com/godssmemess/followers/', 'https://www.instagram.com/vabeif/followers/']
-    let time = Math.floor(Math.random() * 100000 + 4000000)
+    urlist = ['https://www.instagram.com/hb_dawgs/followers/', 'https://www.instagram.com/onlysarcasm.ig/followers/', 'https://www.instagram.com/amateurbantermemes/followers/', 'https://www.instagram.com/yizzerk/followers/', 'https://www.instagram.com/thememelogistics/followers/', 'https://www.instagram.com/legendarymemeguyyy/followers/', 'https://www.instagram.com/meemchamber/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/mcmemes22/followers/', 'https://www.instagram.com/imjustlivinmemes/followers/', 'https://www.instagram.com/lordmemerhere/followers/', 'https://www.instagram.com/memesac.2/followers/', 'https://www.instagram.com/meme_monkey_420/followers/', 'https://www.instagram.com/justthings05/followers/', 'https://www.instagram.com/ohmyrickk/followers/', 'https://www.instagram.com/pubity_comedy/followers/', 'https://www.instagram.com/godssmemess/followers/', 'https://www.instagram.com/vabeif/followers/',
+    'https://www.instagram.com/issamemelover/followers/', 'https://www.instagram.com/staywithmecrox/followers/', 'https://www.instagram.com/memes_4yaall/followers/', 'https://www.instagram.com/drunken.fruit.fly/followers/', 'https://www.instagram.com/memehxstler/followers/', 'https://www.instagram.com/dogeoncrack/followers/', 'https://www.instagram.com/instant.memz/followers/', 'https://www.instagram.com/ultrameems/followers/', 'https://www.instagram.com/i.shidded.my.pants/followers/', 'https://www.instagram.com/fuckkcomedy/followers/', 'https://www.instagram.com/toiletmemes33/followers/', 'https://www.instagram.com/spongedome/followers/', 'https://www.instagram.com/siiiiiiick/followers/', 'https://www.instagram.com/saucynade/followers/', 'https://www.instagram.com/memestochill/followers/']
+    //urlist = ['']
+    let time = Math.floor(Math.random() * 30000 + 40000)
     await page.waitFor(time)
     if(url == 18){
       url = 0;
@@ -88,7 +86,14 @@ async function start() {
       const elements = await page.$x('/html/body/div[4]/div/div/div[2]/ul/div/li/div/div[2]/div[1]/div/div/span')
       ///html/body/div[4]/div/div/div[2]/ul/div/li[7]/div/div[1]/div[2]/div[1]/span
       ///html/body/div[4]/div/div/div[2]/ul/div/li[2]/div/div[2]/div[1]/div/div/span
-      await elements[z].click()   
+      try{
+        await elements[z].click()        
+      }   
+      catch{
+        let info = 'Finished loop early'
+        console.log('\x1b[36m%s\x1b[0m', info);
+        break;
+      }
       //await page.click('body > div.RnEpo.Yx5HN > div > div > div.isgrP > ul > div > li:nth-child(2) > div > div.Igw0E.IwRSH.eGOV_._4EzTm.yC0tu > div > div > span')
       k += 45;
       await page.waitFor(1000)
@@ -102,7 +107,7 @@ async function start() {
         var name = await page.evaluate(element => element.textContent, element);
         console.log(name)
       }
-      var i = (varlist.indexOf("turtles"));
+      var i = (varlist.indexOf(name));
       console.log(i)
       if(i > -1){
           console.log('already there')
@@ -122,6 +127,36 @@ async function start() {
           catch{
             console.log('only one post')
           }
+          try{
+            await page.waitFor(2000)
+            next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
+            await next.click()    
+            await page.waitFor(4000)
+            try{
+                await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
+            }
+            catch{
+              console.log('only two posts')
+            }                    
+          }
+          catch{
+            console.log('only two posts')
+          }
+          try{
+            await page.waitFor(2000)
+            next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
+            await next.click()    
+            await page.waitFor(4000)
+            try{
+              await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
+            }
+            catch{
+              console.log('only three posts')
+            }                    
+          }
+          catch{
+            console.log('only three posts')
+          }
         }
         catch{
           n = 1;
@@ -130,7 +165,7 @@ async function start() {
       }
       await page.waitFor(2000)  
       //var array = [text, text, text, text, text]
-      varlist.push(name + '   ' + n)
+      varlist.push(name + '   ' + n + 'list value' + ' ' + i)
       console.log(varlist)
     }
     url += 1;
