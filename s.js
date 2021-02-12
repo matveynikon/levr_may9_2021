@@ -54,7 +54,7 @@ async function start() {
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     //console.log(urlist.length)
     let time = Math.floor(Math.random() * 14000 + 21000)
-    //await page.waitFor(time)
+    await page.waitFor(time)
     if(url == 6){
       url = 0;
     }
@@ -165,7 +165,7 @@ async function start() {
           console.log('private account')
         }
       }
-      await page.waitFor(2000)  
+      await page.waitFor(5000)  
       //var array = [text, text, text, text, text]
       varlist.push(name + '   ' + n + 'list value' + ' ' + i)
       console.log(varlist)
