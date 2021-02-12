@@ -3,7 +3,6 @@ var n = 0;
 var k = 162;
 async function start() {
   const browser = await puppeteer.launch({
-    headless: false,
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
