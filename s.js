@@ -54,9 +54,16 @@ async function start() {
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     //console.log(urlist.length)
     let time = Math.floor(Math.random() * 600000 + 610000)
+    let time2 = Math.floor(Math.random() * 8600000 + 9000000)
     await page.waitFor(time)
     if(url == 6){
       url = 0;
+      await page.waitFor(time2)
+      var s = urlist.sort(func);  
+      function func() {  
+        return 0.5 - Math.random();
+      }  
+      console.log(s);
     }
     else{
       console.log(url)
