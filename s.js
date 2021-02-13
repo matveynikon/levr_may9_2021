@@ -53,7 +53,7 @@ async function start() {
     'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/ofhensive/followers/', 'https://www.instagram.com/kurxie/followers/', 'https://www.instagram.com/awkwardiety/followers/', 'https://www.instagram.com/basictor/followers/', 'https://www.instagram.com/memestochill/followers/', 'https://www.instagram.com/heavy.pdf/followers/']*/
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     //console.log(urlist.length)
-    let time = Math.floor(Math.random() * 14000 + 21000)
+    let time = Math.floor(Math.random() * 600000 + 610000)
     await page.waitFor(time)
     if(url == 6){
       url = 0;
