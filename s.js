@@ -29,7 +29,7 @@ async function start() {
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(2) > div > label > input
   await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-  await page.keyboard.type('GOGGINS_2')
+  await page.keyboard.type('Willink+1')
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(3) > button > div
   await page.click('#loginForm > div > div:nth-child(3) > button > div')
