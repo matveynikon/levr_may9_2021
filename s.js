@@ -112,9 +112,14 @@ async function start() {
         console.log(name)    
       }
       catch{
-        const element = await page.waitForXPath("/html/body/div[1]/section/main/div/header/section/div[1]/h2");
-        var name = await page.evaluate(element => element.textContent, element);
-        console.log(name)
+        try{
+          const element = await page.waitForXPath("/html/body/div[1]/section/main/div/header/section/div[1]/h2");
+          var name = await page.evaluate(element => element.textContent, element);
+          console.log(name)
+        }
+        catch{
+          console.log('weird name')
+        }
       }
       var i = (varlist.indexOf(name));
       console.log(i)
