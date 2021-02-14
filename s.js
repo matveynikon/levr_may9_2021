@@ -3,6 +3,7 @@ var n = 0;
 var k = 162;
 async function start() {
   const browser = await puppeteer.launch({
+    headless: false,
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
@@ -29,7 +30,7 @@ async function start() {
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(2) > div > label > input
   await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-  await page.keyboard.type('Willink+1')
+  await page.keyboard.type('GOGGINS_1')
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(3) > button > div
   await page.click('#loginForm > div > div:nth-child(3) > button > div')
@@ -55,7 +56,7 @@ async function start() {
     //console.log(urlist.length)
     let time = Math.floor(Math.random() * 600000 + 610000)
     let time2 = Math.floor(Math.random() * 8600000 + 9000000)
-    await page.waitFor(time)
+    //await page.waitFor(time)
     if(url == 6){
       url = 0;
       await page.waitFor(time2)
