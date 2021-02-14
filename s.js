@@ -3,7 +3,6 @@ var n = 0;
 var k = 162;
 async function start() {
   const browser = await puppeteer.launch({
-    headless: false,
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
@@ -56,7 +55,7 @@ async function start() {
     //console.log(urlist.length)
     let time = Math.floor(Math.random() * 600000 + 610000)
     let time2 = Math.floor(Math.random() * 8600000 + 9000000)
-    //await page.waitFor(time)
+    await page.waitFor(time)
     if(url == 6){
       url = 0;
       await page.waitFor(time2)
