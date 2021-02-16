@@ -3,14 +3,11 @@ var n = 0;
 var k = 162;
 async function start() {
   const browser = await puppeteer.launch({
+    headless: false,
     args: [
       '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-infobars',
       '--window-position=0,0',
-      '--ignore-certifcate-errors',
-      '--ignore-certifcate-errors-spki-list',
-      '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"'
+      '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"'
       ]
   });  
   const page = await browser.newPage();
@@ -29,7 +26,7 @@ async function start() {
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(2) > div > label > input
   await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-  await page.keyboard.type('GOGGINS_1')
+  await page.keyboard.type('Willink+4')
   await page.waitFor(2000)
   //#loginForm > div > div:nth-child(3) > button > div
   await page.click('#loginForm > div > div:nth-child(3) > button > div')
@@ -53,8 +50,12 @@ async function start() {
     'https://www.instagram.com/dankgary/followers/', 'https://www.instagram.com/ofhensive/followers/', 'https://www.instagram.com/kurxie/followers/', 'https://www.instagram.com/awkwardiety/followers/', 'https://www.instagram.com/basictor/followers/', 'https://www.instagram.com/memestochill/followers/', 'https://www.instagram.com/heavy.pdf/followers/']*/
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     //console.log(urlist.length)
-    let time = Math.floor(Math.random() * 600000 + 610000)
+    let time = Math.floor(Math.random() * 60000 + 61000)
+    let time3 = Math.floor(Math.random() * 8000 + 10000)
     let time2 = Math.floor(Math.random() * 8600000 + 9000000)
+    let fnum = Math.floor(Math.random() * 16 + 28)
+    let q = Math.floor(Math.random() * 2 + 1)
+    console.log(q)
     await page.waitFor(time)
     if(url == 6){
       url = 0;
@@ -68,11 +69,12 @@ async function start() {
     else{
       console.log(url)
     }
-    for (var z = 0; z < 50; z++){
+    console.log(fnum)
+    for (var z = 0; z < fnum; z++){
       n = 0;
       await page.goto(urlist[url])
       console.log(urlist[url])
-      await page.waitFor(2000)
+      await page.waitFor(time3)
       try{
         await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
       }
@@ -156,20 +158,25 @@ async function start() {
           catch{
             console.log('only two posts')
           }
-          try{
-            await page.waitFor(1000)
-            next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
-            await next.click()    
-            await page.waitFor(1000)
+          if(q == 1){
             try{
-              await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
-            }
-            catch{
-              console.log('only three posts')
-            }                    
+                await page.waitFor(1000)
+                next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
+                await next.click()    
+                await page.waitFor(1000)
+                try{
+                  await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
+                }
+                catch{
+                  console.log('only three posts')
+                }                    
+              }
+              catch{
+                console.log('only three posts')
+              }            
           }
-          catch{
-            console.log('only three posts')
+          else{
+            console.log('\x1b[36m%s\x1b[0m', 'just liking three posts')
           }
         }
         catch{
