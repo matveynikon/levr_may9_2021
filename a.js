@@ -13,11 +13,14 @@ async function start() {
   });  
   const page = await browser.newPage();
   console.log('hellloooo');
-  try{
-    await page.goto('https://www.instagram.com/funnymemes/followers/');  
-  }  
-  catch{
-    console.log('network error')
+  for(var n = 0; n < 8; n++){
+    try{
+      await page.goto('https://www.instagram.com/funnymemes/followers/');  
+      break;
+    }  
+    catch{
+      console.log('network error')
+    }
   }
   await page.waitFor(3000);
   try{
@@ -42,7 +45,7 @@ async function start() {
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     let time = Math.floor(Math.random() * 1000 + 2000)
     let time3 = Math.floor(Math.random() * 8000 + 10000)
-    let time2 = Math.floor(Math.random() * 80000 + 130000)
+    let time2 = Math.floor(Math.random() * 80000 + 100000)
     let fnum = Math.floor(Math.random() * 4 + 6)
     let q = Math.floor(Math.random() * 2 + 1)
     console.log(q)
