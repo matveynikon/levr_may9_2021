@@ -13,7 +13,12 @@ async function start() {
   });  
   const page = await browser.newPage();
   console.log('hellloooo');
-  await page.goto('https://www.instagram.com/funnymemes/followers/');    
+  try{
+    await page.goto('https://www.instagram.com/funnymemes/followers/');  
+  }  
+  catch{
+    console.log('network error')
+  }
   await page.waitFor(3000);
   try{
     await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
