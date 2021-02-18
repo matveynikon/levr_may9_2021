@@ -41,7 +41,7 @@ async function start() {
   var varlist = []
   let g = 0;
   let url = 0;
-  for (var c = 0; c < 200; c++){
+  for (var c = 0; c < 400; c++){
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
     let time = Math.floor(Math.random() * 1000 + 2000)
     let time3 = Math.floor(Math.random() * 8000 + 10000)
