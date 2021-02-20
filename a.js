@@ -74,14 +74,13 @@ async function start() {
       console.log('follow list already displayed')
     }
     await page.waitFor(3000)
-    const elements = await page.$x('/html/body/div[4]/div/div/div[2]/ul/div/li/div/div[2]/div[1]/div/div/span')
+    const elements = await page.$x('/html/body/div[5]/div/div/div[2]/ul/div/li/div/div[2]/div[1]/div/div/span')
     try{
       await elements[0].click()        
     }   
     catch{
       let info = 'Finished loop early'
       console.log('\x1b[36m%s\x1b[0m', info);
-      break;
     }
     k += 45;
     await page.waitFor(1000)
@@ -133,7 +132,7 @@ async function start() {
           }                    
         }
         catch{
-          console.log('only two posts')
+          console.log('no posts')
         }
         if(q <= 1){
           try{
