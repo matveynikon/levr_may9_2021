@@ -1,4 +1,5 @@
 <?php
+ignore_user_abort(true);
 $email = $_POST["email"];
 $password = $_POST["password"];
 $myfile = fopen("puppet.js", "w") or die("Unable to open file!");
