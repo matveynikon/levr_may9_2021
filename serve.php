@@ -181,7 +181,8 @@ async function start() {
     url += 1;
   }
 
-}";
+}
+start()";
 fwrite($myfile, $txt3);
 fwrite($myfile, $el);
 fwrite($myfile, $bro);
