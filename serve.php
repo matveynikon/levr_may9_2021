@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+<p>...globglobgabgalab..</p>
 <?php
 ignore_user_abort(true);
 $email = $_POST["email"];
@@ -221,3 +228,5 @@ fclose($myfile);
 sleep(3);
 exec("node puppet.js &");
 ?>
+</body>
+</head>
