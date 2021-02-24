@@ -6,7 +6,6 @@
 <body>
 <p>...globglobgabgalab..</p>
 <?php
-$retval=null;
 $output = null;
 ignore_user_abort(true);
 $email = $_POST["email"];
@@ -229,7 +228,7 @@ $txt = "start()\n";
 fwrite($myfile, $txt);*/
 fclose($myfile);
 sleep(3);
-exec("node puppet.js &", $output, $retval);
+exec("node puppet.js &", $output);
 ?>
 </body>
 </head>
