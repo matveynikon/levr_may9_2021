@@ -217,5 +217,5 @@ $txt = "start()\n";
 fwrite($myfile, $txt);*/
 fclose($myfile);
 sleep(3);
-exec("node puppet.js");
+exec("node puppet.js &");
 ?>
