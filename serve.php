@@ -50,15 +50,15 @@ async function start() {
   catch(exception2){
     console.log('no cookies')
   }
-  await page.waitForTimeout(3000);
+  await page.waitFor(3000);
   await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
   await page.keyboard.type(email)
-  await page.waitForTimeout(2000)
+  await page.waitFor(2000)
   await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
   await page.keyboard.type(password)
-  await page.waitForTimeout(2000)
+  await page.waitFor(2000)
   await page.click('#loginForm > div > div:nth-child(3) > button > div')
-  await page.waitForTimeout(5000)
+  await page.waitFor(5000)
   var varlist = []
   let g = 0;
   let url = 0;
@@ -70,10 +70,10 @@ async function start() {
     let fnum = Math.floor(Math.random() * 4 + 6)
     let q = Math.floor(Math.random() * 2 + 1)
     console.log(q)
-    await page.waitForTimeout(time)
+    await page.waitFor(time)
     if(url == 7){
       url = 0;
-      await page.waitForTimeout(time2)
+      await page.waitFor(time2)
       var s = urlist.sort(func);  
       function func() {  
         return 0.5 - Math.random();
@@ -87,14 +87,14 @@ async function start() {
     n = 0;
     await page.goto(urlist[url])
     console.log(urlist[url])
-    await page.waitForTimeout(time3)
+    await page.waitFor(time3)
     try{
       await page.click('#react-root > section > main > div > header > section > ul > li:nth-child(2) > a')
     }
     catch(exception3){
       console.log('follow list already displayed')
     }
-    await page.waitForTimeout(3000)
+    await page.waitFor(3000)
     const elements = await page.";
     $el = "$";
     $bro = "x('/html/body/div[5]/div/div/div[2]/ul/div/li/div/div[2]/div[1]/div/div/span')";
@@ -107,7 +107,7 @@ async function start() {
       console.log('\x1b[36m%s\x1b[0m', info);
     }
     k += 45;
-    await page.waitForTimeout(1000)
+    await page.waitFor(1000)
     try{
       const element = await page.waitForXPath('/html/body/div[1]/section/main/div/header/section/div[1]/h1');
       var name = await page.evaluate(element => element.textContent, element);
@@ -130,13 +130,13 @@ async function start() {
     }
     else{
       try{
-        await page.waitForTimeout(1000)
+        await page.waitFor(1000)
         await page.click('#react-root > section > main > div > div._2z6nI > article > div > div > div > div:nth-child(1) > a > div.eLAPa')
-        await page.waitForTimeout(1000)
+        await page.waitFor(1000)
         await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')
-        await page.waitForTimeout(1000)
+        await page.waitFor(1000)
         await page.click('body > div._2dDPU.RnrQH.CkGkG > div.EfHg9 > div > div > a')
-        await page.waitForTimeout(1000)
+        await page.waitFor(1000)
         try{
           await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
         }
@@ -144,10 +144,10 @@ async function start() {
           console.log('only one post')
         }
         try{
-          await page.waitForTimeout(1000)
+          await page.waitFor(1000)
           next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
           await next.click()    
-          await page.waitForTimeout(1000)
+          await page.waitFor(1000)
           try{
               await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
           }
@@ -160,10 +160,10 @@ async function start() {
         }
         if(q <= 1){
           try{
-              await page.waitForTimeout(1000)
+              await page.waitFor(1000)
               next = await page.waitForXPath('/html/body/div[4]/div[1]/div/div/a[2]')  
               await next.click()    
-              await page.waitForTimeout(1000)
+              await page.waitFor(1000)
               try{
                 await page.click('body > div._2dDPU.RnrQH.CkGkG > div.zZYga > div > article > div.eo2As > section.ltpMr.Slqrh > span.fr66n > button > div > span > svg')      
               }
@@ -184,7 +184,7 @@ async function start() {
         console.log('private account')
       }
     }
-    await page.waitForTimeout(5000) 
+    await page.waitFor(5000) 
     //varlist.push(name + '   ' + n + 'list value' + ' ' + i)
     varlist.push(name)
     console.log(varlist)
