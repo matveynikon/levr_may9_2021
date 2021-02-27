@@ -43,7 +43,7 @@ async function start() {
       console.log('network error')
     }
   }
-  await page.wait(3000);
+  await page.waitFor(3000);
   try{
     await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
   }
