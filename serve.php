@@ -32,6 +32,8 @@ async function start() {
       '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36'
       ]
   });
+  const context = browser.defaultBrowserContext();
+  await context.overridePermissions(url, ['geolocation']);
   const page = await browser.newPage();
   console.log('hellloooo');
   for(var n = 0; n < 8; n++){
@@ -69,7 +71,7 @@ async function start() {
   let url = 0;
   for (var c = 0; c < 400; c++){
     urlist = ['https://www.instagram.com/memezar/followers/', 'https://www.instagram.com/jokezar/followers/', 'https://www.instagram.com/britishmemes/followers/', 'https://www.instagram.com/meme.ig/followers/', 'https://www.instagram.com/funnymemes/followers/', 'https://www.instagram.com/puberty/followers/', 'https://www.instagram.com/leavelaughing/followers/']
-    let time = Math.floor(Math.random() * 3000 + 5000)
+    let time = Math.floor(Math.random() * 10000 + 12000)
     let time3 = Math.floor(Math.random() * 8000 + 10000)
     let time2 = Math.floor(Math.random() * 80000 + 100000)
     let fnum = Math.floor(Math.random() * 4 + 6)
