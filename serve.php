@@ -35,8 +35,6 @@ async function start() {
   const page = await browser.newPage();
   console.log('hellloooo');
   url = 'https://www.instagram.com/funnymemes/followers/'
-  const context = browser.defaultBrowserContext();
-  await context.overridePermissions(url, ['geolocation']);
   for(var n = 0; n < 8; n++){
     try{
       await page.goto(url);
@@ -46,6 +44,8 @@ async function start() {
       console.log('network error')
     }
   }
+  const context = browser.defaultBrowserContext();
+  await context.overridePermissions(url, ['geolocation']);
   await page.waitFor(3000);
   try{
     await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
