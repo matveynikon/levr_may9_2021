@@ -32,13 +32,14 @@ async function start() {
       '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36'
       ]
   });
-  const context = browser.defaultBrowserContext();
-  await context.overridePermissions(url, ['geolocation']);
   const page = await browser.newPage();
   console.log('hellloooo');
+  url = 'https://www.instagram.com/funnymemes/followers/'
+  const context = browser.defaultBrowserContext();
+  await context.overridePermissions(url, ['geolocation']);
   for(var n = 0; n < 8; n++){
     try{
-      await page.goto('https://www.instagram.com/funnymemes/followers/');
+      await page.goto(url);
       break;
     }
     catch(exception){
