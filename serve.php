@@ -50,15 +50,20 @@ async function start() {
   catch(exception2){
     console.log('no cookies')
   }
-  await page.waitFor(3000);
-  await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
-  await page.keyboard.type(email)
-  await page.waitFor(2000)
-  await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
-  await page.keyboard.type(password)
-  await page.waitFor(2000)
-  await page.click('#loginForm > div > div:nth-child(3) > button > div')
-  await page.waitFor(5000)
+  try{
+    await page.waitFor(3000);
+    await page.click('#loginForm > div > div:nth-child(1) > div > label > input')
+    await page.keyboard.type(email)
+    await page.waitFor(2000)
+    await page.click('#loginForm > div > div:nth-child(2) > div > label > input')
+    await page.keyboard.type(password)
+    await page.waitFor(2000)
+    await page.click('#loginForm > div > div:nth-child(3) > button > div')
+    await page.waitFor(5000)
+  }
+  catch{
+    console.log('already loged-in');
+  }
   var varlist = []
   let g = 0;
   let url = 0;
