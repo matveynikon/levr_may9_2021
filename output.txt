@@ -1,6 +1,1151 @@
 hellloooo
-(node:67464) UnhandledPromiseRejectionWarning: ReferenceError: Cannot access 'url' before initialization
-    at start (/Users/mihail/Downloads/automation/youtube/frozen-refuge-51699/puppet.js:16:7)
-    at processTicksAndRejections (internal/process/task_queues.js:97:5)
-(node:67464) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
-(node:67464) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+0
+9
+https://www.instagram.com/memezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+patelpartth
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[ 'patelpartth' ]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+8
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+abdu__leo
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[ 'patelpartth', 'abdu__leo' ]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+9
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+onetwoofthree
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[ 'patelpartth', 'abdu__leo', 'onetwoofthree' ]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+7
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+bjorn_vd_broek
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[ 'patelpartth', 'abdu__leo', 'onetwoofthree', 'bjorn_vd_broek' ]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+9
+https://www.instagram.com/funnymemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+khushi_singh1607
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+5
+7
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+ume_ayman____
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+6
+9
+https://www.instagram.com/leavelaughing/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+_.moira._br
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'https://www.instagram.com/memezar/followers/',
+  'https://www.instagram.com/meme.ig/followers/',
+  'https://www.instagram.com/leavelaughing/followers/',
+  'https://www.instagram.com/funnymemes/followers/',
+  'https://www.instagram.com/jokezar/followers/',
+  'https://www.instagram.com/britishmemes/followers/',
+  'https://www.instagram.com/puberty/followers/'
+]
+8
+https://www.instagram.com/memezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+lesley_0009
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+6
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+mariaharjuniemi
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+7
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+kitty2cool4cats
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+only three posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+9
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+surprise_party____
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats',
+  'surprise_party____'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+8
+https://www.instagram.com/funnymemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+sterlingdgoat22
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats',
+  'surprise_party____',
+  'sterlingdgoat22'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+5
+8
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+aakash_shah_53
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats',
+  'surprise_party____',
+  'sterlingdgoat22',
+  'aakash_shah_53'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+6
+7
+https://www.instagram.com/leavelaughing/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+aakash_shah_53
+12
+already there
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats',
+  'surprise_party____',
+  'sterlingdgoat22',
+  'aakash_shah_53',
+  'aakash_shah_53'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'https://www.instagram.com/meme.ig/followers/',
+  'https://www.instagram.com/britishmemes/followers/',
+  'https://www.instagram.com/puberty/followers/',
+  'https://www.instagram.com/funnymemes/followers/',
+  'https://www.instagram.com/jokezar/followers/',
+  'https://www.instagram.com/memezar/followers/',
+  'https://www.instagram.com/leavelaughing/followers/'
+]
+8
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+carlwilhelm__hej
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+[36mjust liking three posts[0m
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',
+  'abdu__leo',
+  'onetwoofthree',
+  'bjorn_vd_broek',
+  'khushi_singh1607',
+  'ume_ayman____',
+  '_.moira._br',
+  'lesley_0009',
+  'mariaharjuniemi',
+  'kitty2cool4cats',
+  'surprise_party____',
+  'sterlingdgoat22',
+  'aakash_shah_53',
+  'aakash_shah_53',
+  'carlwilhelm__hej'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+7
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+aetp195
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+9
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+tazzerclipz
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+8
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+_satvikd_
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+9
+https://www.instagram.com/funnymemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+arshchauhan18
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+5
+7
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+baldkevinmfc
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+[36mjust liking three posts[0m
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+6
+6
+https://www.instagram.com/leavelaughing/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+chino_gamer20
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'https://www.instagram.com/puberty/followers/',
+  'https://www.instagram.com/funnymemes/followers/',
+  'https://www.instagram.com/meme.ig/followers/',
+  'https://www.instagram.com/britishmemes/followers/',
+  'https://www.instagram.com/jokezar/followers/',
+  'https://www.instagram.com/memezar/followers/',
+  'https://www.instagram.com/leavelaughing/followers/'
+]
+8
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+sudiawati4
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+8
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+camlin_783
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+8
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+dis.ma.i
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+only three posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+9
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+solidpage_va
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+only three posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+8
+https://www.instagram.com/funnymemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+_karmaistnebitch
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+5
+8
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+brennanmiddlemiss
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+6
+7
+https://www.instagram.com/leavelaughing/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+oledaveydave
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+[36mjust liking three posts[0m
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'https://www.instagram.com/jokezar/followers/',
+  'https://www.instagram.com/puberty/followers/',
+  'https://www.instagram.com/memezar/followers/',
+  'https://www.instagram.com/leavelaughing/followers/',
+  'https://www.instagram.com/meme.ig/followers/',
+  'https://www.instagram.com/britishmemes/followers/',
+  'https://www.instagram.com/funnymemes/followers/'
+]
+8
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+bakhtawar.21.21
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+9
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+youneverknewme_2020
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+6
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+kiiramlizza
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+7
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+chyrosee_
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+[36mjust liking three posts[0m
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+7
+https://www.instagram.com/funnymemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+zvlge
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+5
+6
+https://www.instagram.com/puberty/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+timmykriv
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+only three posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+6
+6
+https://www.instagram.com/leavelaughing/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+hoodietaiii
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+only three posts
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv',
+  'hoodietaiii'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'https://www.instagram.com/jokezar/followers/',
+  'https://www.instagram.com/meme.ig/followers/',
+  'https://www.instagram.com/leavelaughing/followers/',
+  'https://www.instagram.com/puberty/followers/',
+  'https://www.instagram.com/memezar/followers/',
+  'https://www.instagram.com/funnymemes/followers/',
+  'https://www.instagram.com/britishmemes/followers/'
+]
+9
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+david_lane77
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv',
+  'hoodietaiii',        'david_lane77'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+1
+9
+https://www.instagram.com/jokezar/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+xixalxd
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+no posts
+[36mjust liking three posts[0m
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv',
+  'hoodietaiii',        'david_lane77',
+  'xixalxd'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+2
+8
+https://www.instagram.com/britishmemes/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+d_ave290
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv',
+  'hoodietaiii',        'david_lane77',
+  'xixalxd',            'd_ave290'
+]
+1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+3
+7
+https://www.instagram.com/meme.ig/followers/
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+shkurtashosholli
+-1
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+private account
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+[
+  'patelpartth',        'abdu__leo',
+  'onetwoofthree',      'bjorn_vd_broek',
+  'khushi_singh1607',   'ume_ayman____',
+  '_.moira._br',        'lesley_0009',
+  'mariaharjuniemi',    'kitty2cool4cats',
+  'surprise_party____', 'sterlingdgoat22',
+  'aakash_shah_53',     'aakash_shah_53',
+  'carlwilhelm__hej',   'aetp195',
+  'tazzerclipz',        '_satvikd_',
+  'arshchauhan18',      'baldkevinmfc',
+  'chino_gamer20',      'sudiawati4',
+  'camlin_783',         'dis.ma.i',
+  'solidpage_va',       '_karmaistnebitch',
+  'brennanmiddlemiss',  'oledaveydave',
+  'bakhtawar.21.21',    'youneverknewme_2020',
+  'kiiramlizza',        'chyrosee_',
+  'zvlge',              'timmykriv',
+  'hoodietaiii',        'david_lane77',
+  'xixalxd',            'd_ave290',
+  'shkurtashosholli'
+]
+2
+waitFor is deprecated and will be removed in a future release. See https://github.com/puppeteer/puppeteer/issues/6214 for details and how to migrate your code.
+4
+7
+(node:72818) UnhandledPromiseRejectionWarning: Error: Protocol error (Page.navigate): Session closed. Most likely the page has been closed.
+    at CDPSession.send (/Users/mihail/Downloads/automation/youtube/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:195:35)
+    at navigate (/Users/mihail/Downloads/automation/youtube/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:108:47)
+    at FrameManager.navigateFrame (/Users/mihail/Downloads/automation/youtube/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:91:13)
+    at Frame.goto (/Users/mihail/Downloads/automation/youtube/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:417:41)
+    at Page.goto (/Users/mihail/Downloads/automation/youtube/node_modules/puppeteer/lib/cjs/puppeteer/common/Page.js:784:53)
+    at start (/Users/mihail/Downloads/automation/youtube/frozen-refuge-51699/puppet.js:75:16)
+(node:72818) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 3)
+(node:72818) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
