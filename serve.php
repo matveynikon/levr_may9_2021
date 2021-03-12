@@ -29,7 +29,7 @@ async function start() {
     args: [
       '--no-sandbox',
       '--window-position=0,0',
-      args: [ '--proxy-server=81.242.175.245' ]
+      '--proxy-server=81.242.175.245'
       ]
   });
   const page = await browser.newPage();
