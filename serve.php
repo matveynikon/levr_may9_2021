@@ -27,9 +27,8 @@ async function start() {
   var k = 162;
   const browser = await puppeteer.launch({
     args: [
-      '--no-sandbox',
       '--window-position=0,0',
-      '--proxy-server=81.242.175.245'
+      '--proxy=http://81.242.175.245'
       ]
   });
   const page = await browser.newPage();
