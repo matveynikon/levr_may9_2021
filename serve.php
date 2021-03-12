@@ -45,8 +45,6 @@ async function start() {
       console.log('network error')
     }
   }
-  const context = browser.defaultBrowserContext();
-  await context.overridePermissions(url2, ['geolocation']);
   await page.waitFor(3000);
   try{
     await page.click('body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.bIiDR')
