@@ -29,7 +29,7 @@ async function start() {
     args: [
       '--no-sandbox',
       '--window-position=0,0',
-      '--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36'
+      args: [ '--proxy-server=81.242.175.245' ]
       ]
   });
   const page = await browser.newPage();
