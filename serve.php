@@ -206,7 +206,7 @@ fwrite($myfile, $bro);
 fwrite($myfile, $el2);
 fclose($myfile);
 sleep(2);
-$cmd = "nohup node puppet.js";
+$cmd = "nohup node proxytest.js";
 $outputfile = "output.txt";
 $pidfile = "pidfile.txt";
 shell_exec(sprintf("%s > %s 2>&1 & echo $! >> %s", $cmd, $outputfile, $pidfile));
