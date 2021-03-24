@@ -11,6 +11,6 @@
   ini_set('display_errors', 1);  
   ignore_user_abort(true);   
 ?>
-<a href="form.php">form</a>
+<a href="form.php">scrape!</a>
 </body>
 </head>
