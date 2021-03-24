@@ -15,6 +15,10 @@ async function start() {
   });
   const page = await browser.newPage();
   await page.goto('https://www.whatismyip.com/')
+  await page.screenshot({
+    path: "./screenshot.png",  
+    fullPage: true
+  })
   const element = await page.waitForXPath("/html/body/div[2]/div[2]/div/div/div/main/article/div[1]/div/div[1]/div/div/ul/li[2]/div/a");
   var name = await page.evaluate(element => element.textContent, element);
   console.log(name)    
