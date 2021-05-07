@@ -237,6 +237,9 @@ body{
 </style>
 </head>
 <body>
+<?php
+set_time_limit(180000);
+?>
 <form id="sd" method="post" class="scan">
 start date: <input type="text" name="start" class="options" placeholder="2021-04-07"><br>
 end date: <input type="text" name="end" class="options" placeholder="2021-04-14"><br>
