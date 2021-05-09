@@ -237,9 +237,6 @@ body{
 </style>
 </head>
 <body>
-<?php
-ignore_user_abort(true); 
-?>
 <form id="sd" method="post" class="scan">
 start date: <input type="text" name="start" class="options" placeholder="2021-04-07"><br>
 end date: <input type="text" name="end" class="options" placeholder="2021-04-14"><br>
@@ -279,11 +276,11 @@ function Fun() {
         alert("likes!")
     }
     else if(strUser == "comments"){
-        document.getElementById("sd").action = "create2.php";
+        document.getElementById("sd").action = "create3.php";
         alert("comments!")
     }
     else{
-        document.getElementById("sd").action = "create4.php";
+        document.getElementById("sd").action = "create3.php";
         alert("retweets!")
     }
     document.getElementById("sd").style.display = "none";

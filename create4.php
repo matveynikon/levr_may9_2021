@@ -35,7 +35,6 @@
 </head>
 <body>
 <?php
-ignore_user_abort(true); 
 $start = $_POST["start"];
 $s2 = "'$start'";
 $end = $_POST["end"];
@@ -438,7 +437,7 @@ function isRunning($pid){
 
 ?>
 <?php
-ignore_user_abort(true); 
+//ignore_user_abort(true); <== use with caution, may load results form previous tests!
 //ob_end_flush();
 //ob_implicit_flush();
 //echo("Hey Vsauce, Michael here90000!");
