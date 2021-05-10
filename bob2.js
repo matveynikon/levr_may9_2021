@@ -315,7 +315,7 @@ const puppeteer = require('puppeteer');
           console.log(dhyper.length)
           for(i = 0; i < 5; i++){
             await page.waitForTimeout(2000)
-            fs.writeFile('ids2p448uju75f8g1ogs3ifn37l28' + i +'.txt', dhyper[i][1], (err) => {
+            fs.writeFile('ids' + i +'.txt', dhyper[i][1], (err) => {
               if (err)
                 console.log('nevr gonn give you up');
               else {

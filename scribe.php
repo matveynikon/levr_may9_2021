@@ -16,7 +16,6 @@ session_start();
 echo session_id();
 $session = session_id();
 global $text;
-echo("ids"."$session"."0.txt");
 //ignore_user_abort(true); <== use with caution, may load results form previous tests!
 //ob_end_flush();
 //ob_implicit_flush();
@@ -26,7 +25,7 @@ echo("ids"."$session"."0.txt");
 error_reporting(E_ERROR | E_PARSE);
 for($k = 0; $k < 1500; $k++){
     sleep(2);
-    $myfile = fopen("ids{$session}0.txt", "r") or die("Unable to open file!");
+    $myfile = fopen("ids0.txt", "r") or die("Unable to open file!");
     //$text = fread($myfile,filesize("ids.txt"));
     $text = fgets($myfile);
     if(strlen( $text ) === 0){
@@ -41,7 +40,7 @@ for($k = 0; $k < 1500; $k++){
 }
 for($k2 = 0; $k2 < 20; $k2++){
     sleep(1);
-    $myfile2 = fopen("ids{$session}1.txt", "r") or die("Unable to open file!");
+    $myfile2 = fopen("ids1.txt", "r") or die("Unable to open file!");
     //$text = fread($myfile,filesize("ids.txt"));
     $text2 = fgets($myfile2);
     if( $text === $text2){
@@ -55,7 +54,7 @@ for($k2 = 0; $k2 < 20; $k2++){
 }
 for($k3 = 0; $k3 < 20; $k3++){
     sleep(1);
-    $myfile3 = fopen("ids{$session}2.txt", "r") or die("Unable to open file!");
+    $myfile3 = fopen("ids2.txt", "r") or die("Unable to open file!");
     //$text = fread($myfile,filesize("ids.txt"));
     $text3 = fgets($myfile3);
     if( $text2 === $text3){
@@ -77,7 +76,7 @@ for($k3 = 0; $k3 < 20; $k3++){
 }
 for($k4 = 0; $k4 < 20; $k4++){
     sleep(1);
-    $myfile4 = fopen("ids{$session}3.txt", "r") or die("Unable to open file!");
+    $myfile4 = fopen("ids3.txt", "r") or die("Unable to open file!");
     //$text = fread($myfile,filesize("ids.txt"));
     $text4 = fgets($myfile4);
     if( $text3 === $text4){
@@ -99,7 +98,7 @@ for($k4 = 0; $k4 < 20; $k4++){
 }
 for($k5 = 0; $k5 < 20; $k5++){
     sleep(1);
-    $myfile5 = fopen("ids{$session}4.txt", "r") or die("Unable to open file!");
+    $myfile5 = fopen("ids4.txt", "r") or die("Unable to open file!");
     //$text = fread($myfile,filesize("ids.txt"));
     $text5 = fgets($myfile5);
     if( $text4 === $text5){
@@ -163,11 +162,11 @@ window.addEventListener('load', function () {
 });
 </script>
 <?php
-file_put_contents("ids{$session}0.txt", "");
-file_put_contents("ids{$session}1.txt", "");
-file_put_contents("ids{$session}2.txt", "");
-file_put_contents("ids{$session}3.txt", "");
-file_put_contents("ids{$session}4.txt", "");
+file_put_contents("ids0.txt", "");
+file_put_contents("ids1.txt", "");
+file_put_contents("ids2.txt", "");
+file_put_contents("ids3.txt", "");
+file_put_contents("ids4.txt", "");
 //unlink("ids.txt");
 echo("unlinked!!!!!!!!!!");
 //session_destroy();

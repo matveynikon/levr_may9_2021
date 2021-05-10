@@ -7,9 +7,6 @@
 <body>
 <?php
 function start(){
-  session_start();    
-  echo session_id();
-  $session = session_id();
   echo("php here");
   $start = $_POST["start"];
   $s2 = "'$start'";
@@ -353,7 +350,7 @@ function start(){
           console.log(dhyper.length)
           for(i = 0; i < 5; i++){
             await page.waitForTimeout(2000)
-            fs.writeFile('ids{$session}' + i +'.txt', dhyper[i][1], (err) => {
+            fs.writeFile('ids' + i +'.txt', dhyper[i][1], (err) => {
               if (err)
                 console.log('nevr gonn give you up');
               else {

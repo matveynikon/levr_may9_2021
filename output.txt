@@ -10,6 +10,13 @@ ABORTING: video
 ABORTING: video
 ABORTING: video
 ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
 6404 <-- height of page
 0<-- scrolled height
 scrolled!
@@ -22,44 +29,67 @@ scrolled!
 not there!!!
 ABORTING: video
 287
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 6404 <-- height of page
 600<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 ABORTING: video
 287
 6404 <-- height of page
 900<-- scrolled height
 scrolled!
 not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
 ABORTING: video
 287
 6404 <-- height of page
@@ -72,22 +102,6 @@ ABORTING: video
 1500<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 287
 6404 <-- height of page
 1800<-- scrolled height
@@ -104,6 +118,14 @@ not there!!!
 scrolled!
 not there!!!
 287
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
 6404 <-- height of page
 2700<-- scrolled height
 scrolled!
@@ -118,7 +140,6 @@ not there!!!
 3300<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
 ABORTING: video
 24
 10877 <-- height of page
@@ -162,9 +183,6 @@ ABORTING: video
 ABORTING: video
 ABORTING: video
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 300
 10877 <-- height of page
 5400<-- scrolled height
@@ -173,11 +191,16 @@ not there!!!
 ABORTING: video
 ABORTING: video
 ABORTING: video
+ABORTING: video
+ABORTING: video
 300
 10877 <-- height of page
 5700<-- scrolled height
 scrolled!
 not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
 ABORTING: video
 ABORTING: video
 ABORTING: video
@@ -209,12 +232,15 @@ not there!!!
 ABORTING: video
 ABORTING: video
 103
-ABORTING: video
-ABORTING: video
 11440 <-- height of page
 6900<-- scrolled height
 scrolled!
 not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
 ABORTING: video
 ABORTING: video
 ABORTING: video
@@ -224,7 +250,11 @@ ABORTING: video
 7200<-- scrolled height
 scrolled!
 not there!!!
+ABORTING: video
+ABORTING: video
 365
+ABORTING: video
+ABORTING: video
 ABORTING: video
 ABORTING: video
 11440 <-- height of page
@@ -233,14 +263,11 @@ scrolled!
 not there!!!
 ABORTING: video
 ABORTING: video
-ABORTING: video
 295
 11440 <-- height of page
 7800<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
 218
 11440 <-- height of page
 8100<-- scrolled height
@@ -249,15 +276,15 @@ not there!!!
 ABORTING: video
 ABORTING: video
 ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
+ABORTING: video
 218
 13090 <-- height of page
 8400<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 814
 13090 <-- height of page
 8700<-- scrolled height
@@ -268,15 +295,14 @@ not there!!!
 9000<-- scrolled height
 scrolled!
 not there!!!
+ABORTING: video
+ABORTING: video
+ABORTING: video
 153
 13090 <-- height of page
 9300<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
 153
 13090 <-- height of page
 9600<-- scrolled height
