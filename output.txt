@@ -1,630 +1,454 @@
-Ajackbutcher
+AJoeIngeno
 ABORTING: video
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-6404 <-- height of page
+7683 <-- height of page
 0<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-287
-6404 <-- height of page
+16
+7683 <-- height of page
 300<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-287
-6404 <-- height of page
+16
+7683 <-- height of page
 600<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-287
-6404 <-- height of page
+16
+7683 <-- height of page
 900<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-287
-6404 <-- height of page
+16
+7683 <-- height of page
 1200<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-287
-6404 <-- height of page
+16
+7683 <-- height of page
 1500<-- scrolled height
 scrolled!
 not there!!!
-287
-6404 <-- height of page
+ABORTING: video
+16
+7683 <-- height of page
 1800<-- scrolled height
 scrolled!
 not there!!!
-287
-6404 <-- height of page
+ABORTING: video
+16
+7683 <-- height of page
 2100<-- scrolled height
 scrolled!
 not there!!!
-287
-6404 <-- height of page
+ABORTING: video
+16
+7683 <-- height of page
 2400<-- scrolled height
 scrolled!
 not there!!!
-287
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-6404 <-- height of page
+16
+7683 <-- height of page
 2700<-- scrolled height
 scrolled!
 not there!!!
-287
-6404 <-- height of page
+2
+7683 <-- height of page
 3000<-- scrolled height
 scrolled!
 not there!!!
-287
-6404 <-- height of page
+2
+7683 <-- height of page
 3300<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-24
-10877 <-- height of page
+1
+7683 <-- height of page
 3600<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-1K
-10877 <-- height of page
+25
+7683 <-- height of page
 3900<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-1K
-10877 <-- height of page
+25
+7683 <-- height of page
 4200<-- scrolled height
 scrolled!
 not there!!!
-785
-10877 <-- height of page
+39
+ABORTING: video
+14029 <-- height of page
 4500<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-53
-10877 <-- height of page
+4
+14029 <-- height of page
 4800<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-53
-10877 <-- height of page
+8
+14029 <-- height of page
 5100<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-300
-10877 <-- height of page
+8
+14029 <-- height of page
 5400<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-300
-10877 <-- height of page
+3
+14029 <-- height of page
 5700<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-551
-11440 <-- height of page
+3
+14029 <-- height of page
 6000<-- scrolled height
 scrolled!
 not there!!!
-69
-11440 <-- height of page
+ABORTING: video
+7
+14029 <-- height of page
 6300<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-69
-11440 <-- height of page
+2
+14029 <-- height of page
 6600<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-103
-11440 <-- height of page
+14029 <-- height of page
 6900<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-102
-11440 <-- height of page
+14029 <-- height of page
 7200<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-365
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-11440 <-- height of page
+2
+14029 <-- height of page
 7500<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-ABORTING: video
-295
-11440 <-- height of page
+2
+14029 <-- height of page
 7800<-- scrolled height
 scrolled!
 not there!!!
-218
-11440 <-- height of page
+ABORTING: video
+2
+14029 <-- height of page
 8100<-- scrolled height
 scrolled!
 not there!!!
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-ABORTING: video
-218
-13090 <-- height of page
+10
+14029 <-- height of page
 8400<-- scrolled height
 scrolled!
 not there!!!
-814
-13090 <-- height of page
+ABORTING: video
+1
+14029 <-- height of page
 8700<-- scrolled height
 scrolled!
 not there!!!
-519
-13090 <-- height of page
+3
+14029 <-- height of page
 9000<-- scrolled height
 scrolled!
 not there!!!
 ABORTING: video
-ABORTING: video
-ABORTING: video
-153
-13090 <-- height of page
+5
+14029 <-- height of page
 9300<-- scrolled height
 scrolled!
 not there!!!
-153
-13090 <-- height of page
+5
+14029 <-- height of page
 9600<-- scrolled height
 scrolled!
 not there!!!
-518
-13090 <-- height of page
+6
+14029 <-- height of page
 9900<-- scrolled height
 scrolled!
 not there!!!
-518
-13090 <-- height of page
+6
+14029 <-- height of page
 10200<-- scrolled height
 scrolled!
 not there!!!
-255
-13090 <-- height of page
+1
+14029 <-- height of page
 10500<-- scrolled height
 scrolled!
 not there!!!
-636
-13090 <-- height of page
+14029 <-- height of page
 10800<-- scrolled height
 scrolled!
 not there!!!
-636
-13090 <-- height of page
+14029 <-- height of page
 11100<-- scrolled height
 scrolled!
 not there!!!
-1.4K
-13090 <-- height of page
+14029 <-- height of page
 11400<-- scrolled height
 scrolled!
 not there!!!
-43
-13090 <-- height of page
+14029 <-- height of page
 11700<-- scrolled height
 scrolled!
 not there!!!
-13090 <-- height of page
+14029 <-- height of page
 12000<-- scrolled height
 scrolled!
 not there!!!
-13090 <-- height of page
+14029 <-- height of page
 12300<-- scrolled height
 scrolled!
 not there!!!
-13090 <-- height of page
+14029 <-- height of page
 12600<-- scrolled height
 scrolled!
 not there!!!
-13090 <-- height of page
+14029 <-- height of page
 12900<-- scrolled height
+scrolled!
+not there!!!
+14029 <-- height of page
+13200<-- scrolled height
+scrolled!
+not there!!!
+14029 <-- height of page
+13500<-- scrolled height
+scrolled!
+not there!!!
+14029 <-- height of page
+13800<-- scrolled height
 scrolled!
 At last YOOOOOOOYYY
 [
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1378746372602671106', '1K' ],
-  [ '/jackbutcher/status/1378745249439289346', '1K' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1378746372602671106', '1K' ],
-  [ '/jackbutcher/status/1378745249439289346', '1K' ],
-  [ '/jackbutcher/status/1378743787716022275', '785' ],
-  [ '/jackbutcher/status/1378737134362882051', '53' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1378746372602671106', '1K' ],
-  [ '/jackbutcher/status/1378745249439289346', '1K' ],
-  [ '/jackbutcher/status/1378743787716022275', '785' ],
-  [ '/jackbutcher/status/1378737134362882051', '53' ],
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  ... 636 more items
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1378851817057091591', '25' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1378851817057091591', '25' ],
+  [ '/JoeIngeno/status/1378724181894967298', '39' ],
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  ... 540 more items
 ]
 []
 [
-  '/jackbutcher/status/1379829485101535240',
-  '/jackbutcher/status/1379799103845105664',
-  '/jackbutcher/status/1379795104668475394',
-  '/jackbutcher/status/1379783240354041861',
-  '/jackbutcher/status/1379178813649731584',
-  '/jackbutcher/status/1379154091364995078',
-  '/jackbutcher/status/1379136432397283336',
-  '/jackbutcher/status/1379090274723434509',
-  '/jackbutcher/status/1379049909370904576',
-  '/jackbutcher/status/1378821253008592903',
-  '/jackbutcher/status/1378801696885911557',
-  '/jackbutcher/status/1378792896409841671',
-  '/jackbutcher/status/1378785221135495169',
-  '/jackbutcher/status/1378781882683363334',
-  '/jackbutcher/status/1378746372602671106',
-  '/jackbutcher/status/1378745249439289346',
-  '/jackbutcher/status/1378743787716022275',
-  '/jackbutcher/status/1378737134362882051',
-  '/jackbutcher/status/1378735408612306945',
-  '/jackbutcher/status/1378733682660368384',
-  '/jackbutcher/status/1378635126024847362',
-  '/jackbutcher/status/1378634532186902529',
-  '/jackbutcher/status/1378483986448678914',
-  '/jackbutcher/status/1378461091961913349',
-  '/jackbutcher/status/1378452848741134341',
-  '/jackbutcher/status/1378421251883073537',
-  '/jackbutcher/status/1378411038287265795',
-  '/jackbutcher/status/1378359321285824523',
-  '/jackbutcher/status/1378345432246583298',
-  '/jackbutcher/status/1378339916053155842',
-  '/jackbutcher/status/1378339113338761216',
-  '/jackbutcher/status/1378323278180323329',
-  '/jackbutcher/status/1378319916496003077',
-  '/jackbutcher/status/1378317979218288641',
-  '/jackbutcher/status/1378299932717760513',
-  '/jackbutcher/status/1378159224392462338',
-  '/jackbutcher/status/1377974332924829701',
-  '/jackbutcher/status/1377847466532478978',
-  '/jackbutcher/status/1377836285587554304',
-  '/jackbutcher/status/1377781904179617793',
-  '/jackbutcher/status/1377767348283830276',
-  '/jackbutcher/status/1377737868756582400',
-  '/jackbutcher/status/1377731521256292354',
-  '/jackbutcher/status/1377665616686018562',
-  '/jackbutcher/status/1377607654403624964',
-  '/jackbutcher/status/1377456778707922946'
+  '/JoeIngeno/status/1379893997674594308',
+  '/JoeIngeno/status/1379796119090311171',
+  '/JoeIngeno/status/1379644855928897537',
+  '/JoeIngeno/status/1379630006167597059',
+  '/JoeIngeno/status/1379599942877069314',
+  '/JoeIngeno/status/1379584835916808192',
+  '/JoeIngeno/status/1379433811981701124',
+  '/JoeIngeno/status/1379282472291213318',
+  '/JoeIngeno/status/1379267751030747136',
+  '/JoeIngeno/status/1379252566576537612',
+  '/JoeIngeno/status/1379237539760967680',
+  '/JoeIngeno/status/1379222455995207684',
+  '/JoeIngeno/status/1379169225512718336',
+  '/JoeIngeno/status/1379071613514158086',
+  '/JoeIngeno/status/1378851817057091591',
+  '/JoeIngeno/status/1378724181894967298',
+  '/JoeIngeno/status/1378346636280279042',
+  '/JoeIngeno/status/1378165462408781833',
+  '/JoeIngeno/status/1378029548382609409',
+  '/JoeIngeno/status/1377832916970012674',
+  '/JoeIngeno/status/1377984161475084289',
+  '/JoeIngeno/status/1377818070262112256',
+  '/JoeIngeno/status/1377803092884922369',
+  '/JoeIngeno/status/1377787974784589824',
+  '/JoeIngeno/status/1377719673500930049',
+  '/JoeIngeno/status/1377621954291712003',
+  '/JoeIngeno/status/1377606428412801031',
+  '/JoeIngeno/status/1377470534267637761',
+  '/JoeIngeno/status/1377455679204691972',
+  '/JoeIngeno/status/1377440604238454787',
+  '/JoeIngeno/status/1377425647631441923',
+  '/JoeIngeno/status/1377410381203664896'
 ]
-46
+32
 [
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1378746372602671106', '1K' ],
-  [ '/jackbutcher/status/1378745249439289346', '1K' ],
-  [ '/jackbutcher/status/1378743787716022275', '785' ],
-  [ '/jackbutcher/status/1378737134362882051', '53' ],
-  [ '/jackbutcher/status/1378735408612306945', '300' ],
-  [ '/jackbutcher/status/1378733682660368384', '44' ],
-  [ '/jackbutcher/status/1378635126024847362', '551' ],
-  [ '/jackbutcher/status/1378634532186902529', '241' ],
-  [ '/jackbutcher/status/1378483986448678914', '69' ],
-  [ '/jackbutcher/status/1378461091961913349', '103' ],
-  [ '/jackbutcher/status/1378452848741134341', '103' ],
-  [ '/jackbutcher/status/1378421251883073537', '102' ],
-  [ '/jackbutcher/status/1378411038287265795', '667' ],
-  [ '/jackbutcher/status/1378359321285824523', '365' ],
-  [ '/jackbutcher/status/1378345432246583298', '349' ],
-  [ '/jackbutcher/status/1378339916053155842', '1.4K' ],
-  [ '/jackbutcher/status/1378339113338761216', '295' ],
-  [ '/jackbutcher/status/1378323278180323329', '218' ],
-  [ '/jackbutcher/status/1378319916496003077', '618' ],
-  [ '/jackbutcher/status/1378317979218288641', '215' ],
-  [ '/jackbutcher/status/1378299932717760513', '814' ],
-  [ '/jackbutcher/status/1378159224392462338', '519' ],
-  [ '/jackbutcher/status/1377974332924829701', '153' ],
-  [ '/jackbutcher/status/1377847466532478978', '518' ],
-  [ '/jackbutcher/status/1377836285587554304', '58' ],
-  [ '/jackbutcher/status/1377781904179617793', '150' ],
-  [ '/jackbutcher/status/1377767348283830276', '255' ],
-  [ '/jackbutcher/status/1377737868756582400', '636' ],
-  [ '/jackbutcher/status/1377731521256292354', '587' ],
-  [ '/jackbutcher/status/1377665616686018562', '1.4K' ],
-  [ '/jackbutcher/status/1377607654403624964', '57' ],
-  [ '/jackbutcher/status/1377456778707922946', '43' ]
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1378851817057091591', '25' ],
+  [ '/JoeIngeno/status/1378724181894967298', '39' ],
+  [ '/JoeIngeno/status/1378346636280279042', '4' ],
+  [ '/JoeIngeno/status/1378165462408781833', '5' ],
+  [ '/JoeIngeno/status/1378029548382609409', '3' ],
+  [ '/JoeIngeno/status/1377832916970012674', '3' ],
+  [ '/JoeIngeno/status/1377984161475084289', '8' ],
+  [ '/JoeIngeno/status/1377818070262112256', '7' ],
+  [ '/JoeIngeno/status/1377803092884922369', '2' ],
+  [ '/JoeIngeno/status/1377787974784589824', '2' ],
+  [ '/JoeIngeno/status/1377719673500930049', '2' ],
+  [ '/JoeIngeno/status/1377621954291712003', '2' ],
+  [ '/JoeIngeno/status/1377606428412801031', '10' ],
+  [ '/JoeIngeno/status/1377470534267637761', '1' ],
+  [ '/JoeIngeno/status/1377455679204691972', '3' ],
+  [ '/JoeIngeno/status/1377440604238454787', '5' ],
+  [ '/JoeIngeno/status/1377425647631441923', '6' ],
+  [ '/JoeIngeno/status/1377410381203664896', '1' ]
 ]
-46
+32
 [
-  [ '/jackbutcher/status/1379829485101535240', '1.6K' ],
-  [ '/jackbutcher/status/1379799103845105664', '177' ],
-  [ '/jackbutcher/status/1379795104668475394', '87' ],
-  [ '/jackbutcher/status/1379783240354041861', '140' ],
-  [ '/jackbutcher/status/1379178813649731584', '1K' ],
-  [ '/jackbutcher/status/1379154091364995078', '302' ],
-  [ '/jackbutcher/status/1379136432397283336', '133' ],
-  [ '/jackbutcher/status/1379090274723434509', '66' ],
-  [ '/jackbutcher/status/1379049909370904576', '480' ],
-  [ '/jackbutcher/status/1378821253008592903', '719' ],
-  [ '/jackbutcher/status/1378801696885911557', '154' ],
-  [ '/jackbutcher/status/1378792896409841671', '784' ],
-  [ '/jackbutcher/status/1378785221135495169', '287' ],
-  [ '/jackbutcher/status/1378781882683363334', '24' ],
-  [ '/jackbutcher/status/1378746372602671106', '1K' ],
-  [ '/jackbutcher/status/1378745249439289346', '1K' ],
-  [ '/jackbutcher/status/1378743787716022275', '785' ],
-  [ '/jackbutcher/status/1378737134362882051', '53' ],
-  [ '/jackbutcher/status/1378735408612306945', '300' ],
-  [ '/jackbutcher/status/1378733682660368384', '44' ],
-  [ '/jackbutcher/status/1378635126024847362', '551' ],
-  [ '/jackbutcher/status/1378634532186902529', '241' ],
-  [ '/jackbutcher/status/1378483986448678914', '69' ],
-  [ '/jackbutcher/status/1378461091961913349', '103' ],
-  [ '/jackbutcher/status/1378452848741134341', '103' ],
-  [ '/jackbutcher/status/1378421251883073537', '102' ],
-  [ '/jackbutcher/status/1378411038287265795', '667' ],
-  [ '/jackbutcher/status/1378359321285824523', '365' ],
-  [ '/jackbutcher/status/1378345432246583298', '349' ],
-  [ '/jackbutcher/status/1378339916053155842', '1.4K' ],
-  [ '/jackbutcher/status/1378339113338761216', '295' ],
-  [ '/jackbutcher/status/1378323278180323329', '218' ],
-  [ '/jackbutcher/status/1378319916496003077', '618' ],
-  [ '/jackbutcher/status/1378317979218288641', '215' ],
-  [ '/jackbutcher/status/1378299932717760513', '814' ],
-  [ '/jackbutcher/status/1378159224392462338', '519' ],
-  [ '/jackbutcher/status/1377974332924829701', '153' ],
-  [ '/jackbutcher/status/1377847466532478978', '518' ],
-  [ '/jackbutcher/status/1377836285587554304', '58' ],
-  [ '/jackbutcher/status/1377781904179617793', '150' ],
-  [ '/jackbutcher/status/1377767348283830276', '255' ],
-  [ '/jackbutcher/status/1377737868756582400', '636' ],
-  [ '/jackbutcher/status/1377731521256292354', '587' ],
-  [ '/jackbutcher/status/1377665616686018562', '1.4K' ],
-  [ '/jackbutcher/status/1377607654403624964', '57' ],
-  [ '/jackbutcher/status/1377456778707922946', '43' ]
+  [ '/JoeIngeno/status/1379893997674594308', '9' ],
+  [ '/JoeIngeno/status/1379796119090311171', '1' ],
+  [ '/JoeIngeno/status/1379644855928897537', '5' ],
+  [ '/JoeIngeno/status/1379630006167597059', '23' ],
+  [ '/JoeIngeno/status/1379599942877069314', '5' ],
+  [ '/JoeIngeno/status/1379584835916808192', '8' ],
+  [ '/JoeIngeno/status/1379433811981701124', '5' ],
+  [ '/JoeIngeno/status/1379282472291213318', '1' ],
+  [ '/JoeIngeno/status/1379267751030747136', '8' ],
+  [ '/JoeIngeno/status/1379252566576537612', '5' ],
+  [ '/JoeIngeno/status/1379237539760967680', '2' ],
+  [ '/JoeIngeno/status/1379222455995207684', '16' ],
+  [ '/JoeIngeno/status/1379169225512718336', '2' ],
+  [ '/JoeIngeno/status/1379071613514158086', '1' ],
+  [ '/JoeIngeno/status/1378851817057091591', '25' ],
+  [ '/JoeIngeno/status/1378724181894967298', '39' ],
+  [ '/JoeIngeno/status/1378346636280279042', '4' ],
+  [ '/JoeIngeno/status/1378165462408781833', '5' ],
+  [ '/JoeIngeno/status/1378029548382609409', '3' ],
+  [ '/JoeIngeno/status/1377832916970012674', '3' ],
+  [ '/JoeIngeno/status/1377984161475084289', '8' ],
+  [ '/JoeIngeno/status/1377818070262112256', '7' ],
+  [ '/JoeIngeno/status/1377803092884922369', '2' ],
+  [ '/JoeIngeno/status/1377787974784589824', '2' ],
+  [ '/JoeIngeno/status/1377719673500930049', '2' ],
+  [ '/JoeIngeno/status/1377621954291712003', '2' ],
+  [ '/JoeIngeno/status/1377606428412801031', '10' ],
+  [ '/JoeIngeno/status/1377470534267637761', '1' ],
+  [ '/JoeIngeno/status/1377455679204691972', '3' ],
+  [ '/JoeIngeno/status/1377440604238454787', '5' ],
+  [ '/JoeIngeno/status/1377425647631441923', '6' ],
+  [ '/JoeIngeno/status/1377410381203664896', '1' ]
 ]
-1600
-no thousands
-no thousands
-no thousands
-1000
-no thousands
-no thousands
-no thousands
-no thousands
-no thousands
-no thousands
-no thousands
-no thousands
-no thousands
-1000
-1000
 no thousands
 no thousands
 no thousands
@@ -638,7 +462,6 @@ no thousands
 no thousands
 no thousands
 no thousands
-1400
 no thousands
 no thousands
 no thousands
@@ -652,58 +475,47 @@ no thousands
 no thousands
 no thousands
 no thousands
-1400
+no thousands
+no thousands
+no thousands
+no thousands
 no thousands
 no thousands
 [
-  [ '1600', '/jackbutcher/status/1379829485101535240' ],
-  [ '1400', '/jackbutcher/status/1378339916053155842' ],
-  [ '1400', '/jackbutcher/status/1377665616686018562' ],
-  [ '1000', '/jackbutcher/status/1379178813649731584' ],
-  [ '1000', '/jackbutcher/status/1378746372602671106' ],
-  [ '1000', '/jackbutcher/status/1378745249439289346' ],
-  [ '814', '/jackbutcher/status/1378299932717760513' ],
-  [ '785', '/jackbutcher/status/1378743787716022275' ],
-  [ '784', '/jackbutcher/status/1378792896409841671' ],
-  [ '719', '/jackbutcher/status/1378821253008592903' ],
-  [ '667', '/jackbutcher/status/1378411038287265795' ],
-  [ '636', '/jackbutcher/status/1377737868756582400' ],
-  [ '618', '/jackbutcher/status/1378319916496003077' ],
-  [ '587', '/jackbutcher/status/1377731521256292354' ],
-  [ '551', '/jackbutcher/status/1378635126024847362' ],
-  [ '519', '/jackbutcher/status/1378159224392462338' ],
-  [ '518', '/jackbutcher/status/1377847466532478978' ],
-  [ '480', '/jackbutcher/status/1379049909370904576' ],
-  [ '365', '/jackbutcher/status/1378359321285824523' ],
-  [ '349', '/jackbutcher/status/1378345432246583298' ],
-  [ '302', '/jackbutcher/status/1379154091364995078' ],
-  [ '300', '/jackbutcher/status/1378735408612306945' ],
-  [ '295', '/jackbutcher/status/1378339113338761216' ],
-  [ '287', '/jackbutcher/status/1378785221135495169' ],
-  [ '255', '/jackbutcher/status/1377767348283830276' ],
-  [ '241', '/jackbutcher/status/1378634532186902529' ],
-  [ '218', '/jackbutcher/status/1378323278180323329' ],
-  [ '215', '/jackbutcher/status/1378317979218288641' ],
-  [ '177', '/jackbutcher/status/1379799103845105664' ],
-  [ '154', '/jackbutcher/status/1378801696885911557' ],
-  [ '153', '/jackbutcher/status/1377974332924829701' ],
-  [ '150', '/jackbutcher/status/1377781904179617793' ],
-  [ '140', '/jackbutcher/status/1379783240354041861' ],
-  [ '133', '/jackbutcher/status/1379136432397283336' ],
-  [ '103', '/jackbutcher/status/1378461091961913349' ],
-  [ '103', '/jackbutcher/status/1378452848741134341' ],
-  [ '102', '/jackbutcher/status/1378421251883073537' ],
-  [ '87', '/jackbutcher/status/1379795104668475394' ],
-  [ '69', '/jackbutcher/status/1378483986448678914' ],
-  [ '66', '/jackbutcher/status/1379090274723434509' ],
-  [ '58', '/jackbutcher/status/1377836285587554304' ],
-  [ '57', '/jackbutcher/status/1377607654403624964' ],
-  [ '53', '/jackbutcher/status/1378737134362882051' ],
-  [ '44', '/jackbutcher/status/1378733682660368384' ],
-  [ '43', '/jackbutcher/status/1377456778707922946' ],
-  [ '24', '/jackbutcher/status/1378781882683363334' ]
+  [ '39', '/JoeIngeno/status/1378724181894967298' ],
+  [ '25', '/JoeIngeno/status/1378851817057091591' ],
+  [ '23', '/JoeIngeno/status/1379630006167597059' ],
+  [ '16', '/JoeIngeno/status/1379222455995207684' ],
+  [ '10', '/JoeIngeno/status/1377606428412801031' ],
+  [ '9', '/JoeIngeno/status/1379893997674594308' ],
+  [ '8', '/JoeIngeno/status/1379584835916808192' ],
+  [ '8', '/JoeIngeno/status/1379267751030747136' ],
+  [ '8', '/JoeIngeno/status/1377984161475084289' ],
+  [ '7', '/JoeIngeno/status/1377818070262112256' ],
+  [ '6', '/JoeIngeno/status/1377425647631441923' ],
+  [ '5', '/JoeIngeno/status/1379644855928897537' ],
+  [ '5', '/JoeIngeno/status/1379599942877069314' ],
+  [ '5', '/JoeIngeno/status/1379433811981701124' ],
+  [ '5', '/JoeIngeno/status/1379252566576537612' ],
+  [ '5', '/JoeIngeno/status/1378165462408781833' ],
+  [ '5', '/JoeIngeno/status/1377440604238454787' ],
+  [ '4', '/JoeIngeno/status/1378346636280279042' ],
+  [ '3', '/JoeIngeno/status/1378029548382609409' ],
+  [ '3', '/JoeIngeno/status/1377832916970012674' ],
+  [ '3', '/JoeIngeno/status/1377455679204691972' ],
+  [ '2', '/JoeIngeno/status/1379237539760967680' ],
+  [ '2', '/JoeIngeno/status/1379169225512718336' ],
+  [ '2', '/JoeIngeno/status/1377803092884922369' ],
+  [ '2', '/JoeIngeno/status/1377787974784589824' ],
+  [ '2', '/JoeIngeno/status/1377719673500930049' ],
+  [ '2', '/JoeIngeno/status/1377621954291712003' ],
+  [ '1', '/JoeIngeno/status/1379796119090311171' ],
+  [ '1', '/JoeIngeno/status/1379282472291213318' ],
+  [ '1', '/JoeIngeno/status/1379071613514158086' ],
+  [ '1', '/JoeIngeno/status/1377470534267637761' ],
+  [ '1', '/JoeIngeno/status/1377410381203664896' ]
 ]
-46
+32
 File written successfully
 File written successfully
 File written successfully
