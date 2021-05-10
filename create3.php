@@ -7,6 +7,9 @@
 <body>
 <?php
 function start(){
+  session_start();    
+  echo session_id();
+  $session = session_id();
   echo("php here");
   $start = $_POST["start"];
   $s2 = "'$start'";
@@ -350,14 +353,12 @@ function start(){
           console.log(dhyper.length)
           for(i = 0; i < 5; i++){
             await page.waitForTimeout(2000)
-            fs.writeFile('ids.txt', dhyper[i][1], (err) => {
-                if (err)
-                  console.log('nevr gonn give you up');
-                else {
-                  console.log('File written successfully');
-                  console.log('The written has the following contents:');
-                  console.log(fs.readFileSync('ids.txt', 'utf8'));
-                }
+            fs.writeFile('ids{$session}' + i +'.txt', dhyper[i][1], (err) => {
+              if (err)
+                console.log('nevr gonn give you up');
+              else {
+                console.log('File written successfully');
+              }
             });
           }
           break;
@@ -409,7 +410,7 @@ function start(){
   ob_implicit_flush();
 }
 start();
-shell_exec('echo /usr/bin/php -q scribe.php | at now');
+//shell_exec('echo /usr/bin/php -q scribe.php | at now');
 echo("doing it!");
 ?>
 <a href="/scribe.php" target="_blank">results</a>

@@ -64,7 +64,7 @@ const puppeteer = require('puppeteer');
     await page.setViewport({ width: 700, height: 1200})
     idstream = []
     await page.goto(preurl)
-    let han = '@benshapiro'
+    let han = '@jackbutcher'
     let someVar = han.replace('@', 'A');
     console.log(someVar);
     const url = 'https://twitter.com/search?q=(from%3' + someVar + ')%20until%3A' + '2021-04-08' + '%20since%3A' + '2021-04-01' + '%20-filter%3Areplies&src=typed_query&f=live';
@@ -315,14 +315,12 @@ const puppeteer = require('puppeteer');
           console.log(dhyper.length)
           for(i = 0; i < 5; i++){
             await page.waitForTimeout(2000)
-            fs.writeFile('ids.txt', dhyper[i][1], (err) => {
-                if (err)
-                  console.log('nevr gonn give you up');
-                else {
-                  console.log('File written successfully');
-                  console.log('The written has the following contents:');
-                  console.log(fs.readFileSync('ids.txt', 'utf8'));
-                }
+            fs.writeFile('ids2p448uju75f8g1ogs3ifn37l28' + i +'.txt', dhyper[i][1], (err) => {
+              if (err)
+                console.log('nevr gonn give you up');
+              else {
+                console.log('File written successfully');
+              }
             });
           }
           break;
