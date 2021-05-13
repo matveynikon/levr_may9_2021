@@ -64,7 +64,7 @@ const puppeteer = require('puppeteer');
     await page.setViewport({ width: 700, height: 1200})
     idstream = []
     await page.goto(preurl)
-    let han = '@JoeIngeno'
+    let han = '@benshapiro'
     let someVar = han.replace('@', 'A');
     console.log(someVar);
     const url = 'https://twitter.com/search?q=(from%3' + someVar + ')%20until%3A' + '2021-04-08' + '%20since%3A' + '2021-04-01' + '%20-filter%3Areplies&src=typed_query&f=live';
@@ -319,7 +319,7 @@ const puppeteer = require('puppeteer');
               if (err)
                 console.log('nevr gonn give you up');
               else {
-                console.log('File written successfully');
+                console.log('File written successfullEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE');
               }
             });
           }
